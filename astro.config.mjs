@@ -7,13 +7,13 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Apuntes Teológicos",
-      // social: [
-      //   {
-      //     icon: "github",
-      //     label: "GitHub",
-      //     href: "https://github.com/withastro/starlight",
-      //   },
-      // ],
+      social: [
+        {
+          icon: "github",
+          label: "GitHub",
+          href: " https://github.com/danny920825/apuntes-teologicos",
+        },
+      ],
       sidebar: [
         {
           label: "Catolicismo y Sus Herejías",
