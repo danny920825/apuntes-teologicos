@@ -62,6 +62,17 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: "Refutaciones Generales",
+          items: [
+            // Each item here is one entry in the navigation menu.
+            {
+              label:
+                "Supuestas restricciones que atentan contra el adelanto humano",
+              slug: "guides/refutaciones/supuestas-restricciones",
+            },
+          ],
+        },
       ],
     }),
   ],
